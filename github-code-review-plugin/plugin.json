@@ -1,0 +1,13 @@
+{
+  "name": "my-dev-tools",
+  "description": "Python development utilities",
+  "version": "1.2.0",
+  "author": {
+    "name": "arjun v",
+    "email": "arjunvijayan.452@gmail.com"
+  },
+  "keywords": ["python", "development"],
+  "agents": "agents/",
+  "skills": ["skills/", "extra-skills/"]
+}
+
